@@ -11,8 +11,8 @@ status: "A aguardar correções da entidade" # Entre as aspas escreve uma das se
 
 # Plataforma Institucional do Município do Bombarral
 
-- Data de criação: 
-- URL: 20/07/2026
+- Data de criação:20/07/2026
+- URL: https://www.cm-bombarral.pt/
 - Propriedade: Município do Bombarral
 - Candidatura: Prata
 
