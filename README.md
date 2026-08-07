@@ -25,6 +25,7 @@ Consulte aqui a última atualização: [Relatório Plataforma Institucional do M
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
+    <li><a href="07082026_report.html">(07/08/2026). Relatório {{ page.website }}</a></li>
     <li><a href="27072026_report.html">(27/07/2026). Relatório {{ page.website }}</a></li>
     <li><a href="20072026_report.html">(20/07/2026). Relatório {{ page.website }}</a></li>
   </ul>
